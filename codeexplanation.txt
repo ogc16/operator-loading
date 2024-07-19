@@ -1,8 +1,6 @@
-Sure, let's go through the provided code step by step.
 
 ### 1. `Shape` Class Definition
 
-```python
 class Shape: 
     def __init__(self, w, h):
         self.width = w
